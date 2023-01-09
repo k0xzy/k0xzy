@@ -15,7 +15,7 @@
 <img align="left" alt="Docker" width="26px" src="./img/intellij.png" />
 <img align="left" alt="Jira" width="26px" src="./img/jira.png" />
 <img align="left" alt="JUnit5" width="26px" src="./img/junit.png" />
-<img align="left" alt="Postman" width="26px" src="./img/postman.jpg" />
+<img align="left" alt="Postman" width="26px" src="./img/postman.jpeg" />
 <img align="left" alt="Selenium" width="26px" src="./img/selenium.png" />
 <img align="left" alt="SQL" width="26px" src="./img/sql.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
