@@ -1,7 +1,11 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="150"/>
+</div>
+
+<div id="down" align="center">
+<h2>Hi there 👋🥳</h2>
 </div>
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/k0oxy)
@@ -22,7 +26,4 @@
 
 <br/>
 
-<div id="down" align="center">
-<h1>hi there 👋</h1>
-</div>
 
