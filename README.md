@@ -14,7 +14,6 @@
 
 - 👐 Manual
 - 💻 Automation (java) 
-- 👯 Буду рад любому сотрудничеству и дельному совету
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/k0oxy)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/k0xzy)
