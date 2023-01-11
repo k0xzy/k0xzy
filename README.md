@@ -22,7 +22,8 @@
 
 <img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Java" width="30px" src="./img/java.png" />
-<img align="left" alt="Docker" width="26px" src="./img/intellij.png" />
+<img align="left" alt="Intellij" width="26px" src="./img/intellij.png" />
+<img align="left" alt="Docker" width="26px" src="./img/docker.png" />
 <img align="left" alt="Jira" width="26px" src="./img/jira.png" />
 <img align="left" alt="JUnit5" width="26px" src="./img/junit.png" />
 <img align="left" alt="Postman" width="46px" src="./img/postman.jpeg" />
