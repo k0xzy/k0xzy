@@ -13,6 +13,9 @@
 - 👐 Manual
 - 💻 Automation (java) 
 
+### Что я умею:
+#### [Автоматизация тестирования комплексного сервиса, взаимодействующего с СУБД и API Банка.](https://github.com/k0xzy/diplomFinal)
+#### [Ручное тестирование. Курсовая работа.](https://docs.google.com/spreadsheets/d/1cUjq_E32pUKsMI_Ck5pN-jeI8Q1zLbU5c_uZQVzW_5s/edit?usp=share_link)
 ### Связаться со мной:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/k0oxy)
