@@ -16,10 +16,13 @@
 ### Что я умею:
 #### [Автоматизация тестирования комплексного сервиса, взаимодействующего с СУБД и API Банка.](https://github.com/k0xzy/diplomFinal)
 #### [Ручное тестирование. Курсовая работа.](https://docs.google.com/spreadsheets/d/1cUjq_E32pUKsMI_Ck5pN-jeI8Q1zLbU5c_uZQVzW_5s/edit?usp=share_link)
-### Связаться со мной:
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/k0oxy)
-[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/profile.php?id=100087789135987)
+### Сертификаты по итогам обучени:
+- [Git](https://github.com/k0xzy/k0xzy/blob/main/docs/git.pdf)
+- [Manual Testing](https://github.com/k0xzy/k0xzy/blob/main/docs/manualQA.pdf)
+- [Java](https://github.com/k0xzy/k0xzy/blob/main/docs/JavaBaseQA.pdf)
+- [Automated Testing](https://github.com/k0xzy/k0xzy/blob/main/docs/autoTestJava.pdf)
+- [QA Certificate](https://github.com/k0xzy/k0xzy/blob/main/docs/QAcert.pdf) 
 
 ### Языки и инструменты:
 
@@ -36,4 +39,7 @@
 
 <br/>
 
+### Связаться со мной:
 
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/k0oxy)
+[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/profile.php?id=100087789135987)
