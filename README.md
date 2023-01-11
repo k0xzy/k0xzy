@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="150"/>
+  <img align="center" width="100%" src="./img/dk.jpg" />
 </div>
 
 <div id="down" align="center">
