@@ -8,23 +8,23 @@
 <h2>Hi there 👋🥳</h2>
 </div>
 
-## Я Тестировщик ПО
+## QA Engineer
 
 - 👐 Manual
 - 💻 Automation (java) 
 
-### Что я умею:
-#### [Автоматизация тестирования комплексного сервиса, взаимодействующего с СУБД и API Банка.](https://github.com/k0xzy/diplomFinal)
-#### [Ручное тестирование. Курсовая работа.](https://docs.google.com/spreadsheets/d/1cUjq_E32pUKsMI_Ck5pN-jeI8Q1zLbU5c_uZQVzW_5s/edit?usp=share_link)
+### My projects:
+#### [Automation of testing of a complex service that interacts with the database management system and the Bank's API.](https://github.com/k0xzy/diplomFinal)
+#### [Manual testing. Course work.](https://docs.google.com/spreadsheets/d/1cUjq_E32pUKsMI_Ck5pN-jeI8Q1zLbU5c_uZQVzW_5s/edit?usp=share_link)
 
-### Сертификаты по итогам обучени:
+### Certificates of education:
 - [Git](https://github.com/k0xzy/k0xzy/blob/main/docs/git.pdf)
 - [Manual Testing](https://github.com/k0xzy/k0xzy/blob/main/docs/manualQA.pdf)
 - [Java](https://github.com/k0xzy/k0xzy/blob/main/docs/JavaBaseQA.pdf)
 - [Automated Testing](https://github.com/k0xzy/k0xzy/blob/main/docs/autoTestJava.pdf)
 - [QA Certificate](https://github.com/k0xzy/k0xzy/blob/main/docs/QAcert.pdf) 
 
-### Языки и инструменты:
+### Languages and tools:
 
 <img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Java" width="30px" src="./img/java.png" />
@@ -39,7 +39,7 @@
 
 <br/>
 
-### Связаться со мной:
+### Contact with me:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/k0oxy)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/profile.php?id=100087789135987)
