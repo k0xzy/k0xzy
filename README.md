@@ -20,9 +20,12 @@
 ### Certificates of education:
 - [Git](https://github.com/k0xzy/k0xzy/blob/main/docs/git.pdf)
 - [Manual Testing](https://github.com/k0xzy/k0xzy/blob/main/docs/manualQA.pdf)
+- [Postman](https://github.com/k0xzy/k0xzy/blob/main/img/stepik-certificate-120679-e44d8c6.pdf)
 - [Java](https://github.com/k0xzy/k0xzy/blob/main/docs/JavaBaseQA.pdf)
 - [Automated Testing](https://github.com/k0xzy/k0xzy/blob/main/docs/autoTestJava.pdf)
 - [QA Certificate](https://github.com/k0xzy/k0xzy/blob/main/docs/QAcert.pdf) 
+- [Preparation for ISTQB Foundation](https://github.com/k0xzy/k0xzy/blob/main/img/stepik-certificate-16478-992118a.pdf)
+
 
 ### Languages and tools:
 
