@@ -25,6 +25,7 @@
 - [Automated Testing](https://github.com/k0xzy/k0xzy/blob/main/docs/autoTestJava.pdf)
 - [QA Certificate](https://github.com/k0xzy/k0xzy/blob/main/docs/QAcert.pdf) 
 - [Preparation for ISTQB Foundation](https://github.com/k0xzy/k0xzy/blob/main/img/stepik-certificate-16478-992118a.pdf)
+- [The Theory of Software Testing](https://github.com/k0xzy/k0xzy/blob/main/img/stepik-certificate-118842-f66b5b2.pdf)
 
 
 ### Languages and tools:
